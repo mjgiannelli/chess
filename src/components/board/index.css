@@ -23,3 +23,10 @@
 .dark {
     background-color: #769656;
 }
+
+.switch-player-color-btn {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: 2rem;
+    padding: .5rem;
+}
