@@ -30,3 +30,25 @@
     font-size: 2rem;
     padding: .5rem;
 }
+
+span {
+    font-size: 1.5rem;
+    margin-left: .4rem;
+    display: flex;
+}
+
+.span-num-light {
+    color: #eeeed2;
+}
+
+.span-num-dark {
+    color: #769656;
+}
+
+.span-let-light {
+    color: #eeeed2;
+}
+
+.span-let-dark {
+    color: #769656;
+}
