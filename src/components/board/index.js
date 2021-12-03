@@ -22,6 +22,7 @@ const Board = () => {
     return (
         <div>
             <div className='board'>
+                {/* TO DO: Refactor code once functionality works */}
                 {playerColor === 'white' ? (
                     <>
                         <div id='8' className='row'>
